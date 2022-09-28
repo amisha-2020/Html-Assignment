@@ -1,0 +1,32 @@
+body{
+    background-color: #faf2e3;
+    margin: 0 26%; /*0 is for top & bottom and 30% is for right and left*/
+    font-family: sans-serif;
+    
+}
+
+hr{
+    border-color:aqua;
+   
+}
+
+h1{
+    text-align: center;
+    font-family: serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color:black ;
+    
+}
+h2{
+    color: rgb(193, 9, 9);
+    font-size: 1.2em;
+}
+p{
+    color: black;
+    font-size: 16px;
+    font-weight: 545;
+    
+}
+
+
